@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luis-Enrique93
 - 👀 I’m interested in Next JS
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on a startup
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me: luis.enrique.mib93@gmail.com
 
 <!---
