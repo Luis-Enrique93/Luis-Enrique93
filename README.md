@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Luis-Enrique93
-- 👀 I’m interested in Next JS
-- 🌱 I’m currently learning Full Stack Development
+- 👀 I’m interested in Typescript
+- 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me: luis.enrique.mib93@gmail.com
+- 📫 How to reach me: Twitter
 - 🌐 Portfolio: https://proyectos-luis.vercel.app/
 
 <!---
